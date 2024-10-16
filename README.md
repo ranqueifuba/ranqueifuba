@@ -1,16 +1,16 @@
-## Hi there 👋
+## bem vindo ao perfil do Pedro   👋
 
-<!--
-**ranqueifuba/ranqueifuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Henrique Ribas
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- ## estudo no Colégio Padre Claudio Morelli
+- ## Tenho 15 anos
+- ## Faço manobras de bicicletas
+- ## 2020-2021 fui profissional no Free Fire
+- ## 2023 fui profissional no valorant
+- ## Joguei pelo Paraná Clube quando era menor 
+- 
+- 
+- 
 -->
