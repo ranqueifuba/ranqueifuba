@@ -8,7 +8,6 @@ Meu nome é Pedro Henrique Ribas
 - ## Tenho 15 anos
 - ## Faço manobras de bicicletas
 - ## 2020-2021 fui profissional no Free Fire
-- ## 2023 fui profissional no valorant
 - ## Joguei pelo Paraná Clube quando era menor 
 - 
 - 
