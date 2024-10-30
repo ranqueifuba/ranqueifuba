@@ -12,4 +12,6 @@ Meu nome é Pedro Henrique Ribas
 - 
 - 
 - 
--->
+--> ## Você pode entar em contato comigo pelo gmail:
+
+  henrique.ribas.pedro@escola.pr.gov.br
